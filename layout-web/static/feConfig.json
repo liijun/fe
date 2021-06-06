@@ -1,7 +1,7 @@
 {
   "header": {
-    "logo": "/static/logo.png",
-    "subTitle": ""
+    "logo": "/static/logo-dark.png",
+    "subTitle": "服务器安心守护"
   },
   "rdb": {
     "username": {
