@@ -31,5 +31,5 @@ pub
 */pub
 */.gitlab-ci.yml
 pub.tar.gz
-proxy.config.js
+# proxy.config.js
 deploy.sh
